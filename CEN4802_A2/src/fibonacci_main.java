@@ -1,6 +1,14 @@
 
 public class fibonacci_main {
-
+/**@author Anthony Ruggiero
+ * @version 1.01
+ * This app is used to return the number that corresponds the requested position of the fibonacci sequence.  The main app calls the fibonacci_app class and the fibonacci method 
+ * and passing n as the input.
+ * 
+ * @param n the user request position of the fibonacci sequence you want to return
+ * @return answer the number in the position of the fibonacci sequence requested by user 
+ * @param args
+ */
 	public static void main(String[] args) {
 		// Anthony Ruggiero - CEN4802 - 05/21/2024
 		
